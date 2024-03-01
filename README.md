@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @Lucasmrc81
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Lucasmrc81/Lucasmrc81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Olá, eu sou @Lucasmrc81.
+👀 Estou interessado em Desenvolvimento de Software.
+🌱 Atualmente estou aprendendo JavaScript e explorando diferentes frameworks para desenvolvimento web.
+💞️ Estou buscando colaborar em projetos de código aberto relacionados à sustentabilidade ambiental.
+📫 Como entrar em contato comigo: Você pode me enviar um e-mail para lucasmrc81@gmail.com.
+😄 Pronomes: Ele/Dele.
+⚡ Curiosidade: Gosto de assistir séries, cozinhar e jogar video game.
