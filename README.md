@@ -7,4 +7,3 @@
 - ⚡ Curiosidade: Gosto de assistir séries, cozinhar e jogar video game.
 
 
-![Snake animation](https://github.com/Lucasmrc81/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
