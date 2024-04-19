@@ -5,3 +5,6 @@
 - 📫 Como entrar em contato comigo: Você pode me enviar um e-mail para lucasmrc81@gmail.com
 - 😄 Pronomes: Ele/Dele.
 - ⚡ Curiosidade: Gosto de assistir séries, cozinhar e jogar video game.
+
+
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
