@@ -46,7 +46,16 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,html,git,github" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=ts,java,aws,p5js,npm,docker,vscode,discord,js,nodejs,git,github,postgres,apple" alt="Skills" />
+  </a>
+</p>
+
+##
+
+## Tecnologia que tenho um pouco de conheciemnto
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gcp,html,py" alt="Skills" />
   </a>
 </p>
 
