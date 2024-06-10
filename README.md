@@ -1,19 +1,20 @@
+## Olá! Eu sou o Lucas Mrc
 
-## Olá! Sou o Lucas Mrc
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&theme=&height=120&section=header&color=2ABAF7"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&theme=&height=120&section=header&color=0A74DA"/>
 
 <div style="text-align: center;">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=23f0f7&center=&vCenter=&repeat=&random=&width=567&height=67&lines=Seja+Bem+Vindo+ao+meu+Perfil!" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=0A74DA&center=&vCenter=&repeat=&random=&width=567&height=67&lines=Seja+Bem+Vindo+ao+meu+Perfil!" alt="Typing SVG" />
     </a>
 </div>
 
 ##
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucasmrc81&theme=transparent&bg_color=ec63a1&border_color=fff&show_icons=true&icon_color=&title_color=2ABAF&text_color=00)
+Olá! Eu sou o Lucas Marcio, um entusiasta da tecnologia e apaixonado por desenvolvimento de software. Estou constantemente em busca de novos desafios e oportunidades para aprender e crescer na minha carreira. Atualmente, estou procurando meu primeiro trabalho na área de desenvolvimento de software.
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lucasmrc81&layout=compact&bg_color=ec63a1&border_color=fff&title_color=2ABAF&text_color=000)
+Estou focado em aprimorar minhas habilidades em desenvolvimento full stack, com ênfase em JavaScript e TypeScript. Além disso, estou sempre explorando novas tecnologias e frameworks para expandir meu conhecimento e me manter atualizado com as tendências do mercado.
+
+Se você deseja entrar em contato comigo ou saber mais sobre meu trabalho, sinta-se à vontade para me contatar através das redes sociais abaixo.
 
 ##
 
@@ -42,6 +43,12 @@
 
 ##
 
+## Projetos
+
+Confira meu projeto [Banco do Lucas](https://github.com/Lucasmrc81/Banco-do-Lucas) para ver meu último trabalho e conquistas. Neste projeto, desenvolvi um sistema de banco utilizando tecnologias modernas como Java, focando na criação de uma aplicação eficiente e segura.
+
+##
+
 ## Tecnologias que mais uso
 
 <p align="left">
@@ -52,7 +59,8 @@
 
 ##
 
-## Tecnologia que tenho um pouco de conheciemnto
+## Tecnologias que tenho um pouco de conhecimento
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=gcp,html,py" alt="Skills" />
@@ -61,11 +69,8 @@
 
 ##
 
-<div align="center">
-    <br><p align="centre"><b>Visitantes:</b></p>  
-    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Lucasmrc81}/count.svg" alt="Profile counter" /></p> 
-    <br>
-</div>
+## Sobre mim
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&theme=dracula&height=120&section=footer&color=2ABAF7"/>
+Além de ser apaixonado por tecnologia, eu também gosto de assistir séries e filmes de comédia. Atualmente, estou reassistindo "Tapas e Beijos", "Cupom Mania" e "Euphoria". Adoro cozinhar e dirigir, e estou sempre disposto a aprender novas receitas. Um dos meus livros favoritos é "Talvez Você Deva Conversar com Alguém".
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&theme=dracula&height=120&section=footer&color=0A74DA"/>
