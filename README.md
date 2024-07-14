@@ -103,7 +103,7 @@ Se você deseja entrar em contato comigo ou saber mais sobre meu trabalho, sinta
 ###
 
 <img src="https://raw.githubusercontent.com/Lucasmrc81/Lucasmrc81/output/snake.svg" alt="Snake animation" />
-##
+
 
 ## Sobre mim
 
