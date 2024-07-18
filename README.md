@@ -102,9 +102,6 @@ Se você deseja entrar em contato comigo ou saber mais sobre meu trabalho, sinta
 
 ###
 
-<img src="https://raw.githubusercontent.com/Lucasmrc81/Lucasmrc81/output/snake.svg" alt="Snake animation" />
-
-
 ## Sobre mim
 
 Além de ser apaixonado por tecnologia, eu também gosto de assistir séries e filmes de comédia. Atualmente, estou reassistindo "Tapas e Beijos", "Cupom Mania" e "Euphoria". Adoro cozinhar e dirigir, e estou sempre disposto a aprender novas receitas. Um dos meus livros favoritos é "Talvez Você Deva Conversar com Alguém".
