@@ -1,5 +1,3 @@
-## Olá! Eu sou o Lucas Mrc
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&theme=&height=120&section=header&color=0A74DA"/>
 
 <div style="text-align: center;">
@@ -10,11 +8,20 @@
 
 ##
 
-Olá! Eu sou o Lucas Marcio, um entusiasta da tecnologia e apaixonado por desenvolvimento de software. Estou constantemente em busca de novos desafios e oportunidades para aprender e crescer na minha carreira. Atualmente, estou procurando meu primeiro trabalho na área de desenvolvimento de software.
+### Olá! Eu sou o Lucas Marcio 🚀
 
-Estou focado em aprimorar minhas habilidades em desenvolvimento full stack, com ênfase em JavaScript e TypeScript. Além disso, estou sempre explorando novas tecnologias e frameworks para expandir meu conhecimento e me manter atualizado com as tendências do mercado.
+Sou um entusiasta apaixonado por tecnologia e desenvolvimento de software, sempre em busca de novos desafios e oportunidades para aprender e crescer na minha carreira. Estou atualmente procurando minha primeira oportunidade na área de desenvolvimento de software e estou determinado a fazer a diferença.
 
-Se você deseja entrar em contato comigo ou saber mais sobre meu trabalho, sinta-se à vontade para me contatar através das redes sociais abaixo.
+🔧 **O que eu faço:**
+- **Desenvolvimento Backend:** Focado em aprimorar minhas habilidades em Java e outras tecnologias de backend.
+- **Desenvolvedor Mobile:** Desenvolvendo aplicativos móveis para a plataforma Android.
+
+💡 **Por que me escolher:**
+- **Paixão e Dedicação:** Minha paixão pela tecnologia é o que me motiva a buscar excelência em cada projeto.
+- **Aprendizado Contínuo:** Comprometido com o aprendizado contínuo para me tornar um desenvolvedor ainda melhor.
+
+📫 **Vamos nos conectar!**
+Se você deseja saber mais sobre meu trabalho ou discutir possíveis colaborações, sinta-se à vontade para me contatar através das redes sociais abaixo. Estou ansioso para conectar e explorar novas oportunidades juntos!
 
 
     
@@ -87,18 +94,44 @@ Se você deseja entrar em contato comigo ou saber mais sobre meu trabalho, sinta
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/22ru4mjhichwfs3k7s3iiastq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22ru4mjhichwfs3k7s3iiastq&count=1&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
+<!-- Spotify -->
+<a href="https://open.spotify.com/user/22ru4mjhichwfs3k7s3iiastq#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
+  <img src="https://galexy727.vercel.app/api/spotify?background_color=1a1b27&border_color=DD2BC7" 
+       alt="I love Spotify!"/>
+</a>
+<a href="https://open.spotify.com/user/22ru4mjhichwfs3k7s3iiastq#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
+  <img src="https://galexy727.vercel.app/api/spotify?background_color=C7CBFF&border_color=DD2BC7" 
+       alt="I love Spotify!"/>
+</a>
 
 ###
+<!-- Github Stats -->
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
+  <img src="https://github-readme-stats.vercel.app/api?username=LucasMrc81&show_icons=true&theme=tokyonight&border_color=DD2BC7" 
+       width="49%" alt="My GitHub Stats were once here..." />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
+  <img src="https://github-readme-stats.vercel.app/api?username=LucasMrc81&show_icons=true&theme=buefy&border_color=DD2BC7" 
+       width="49%" alt="My GitHub Stats were once here..." />
+</a>
+<!-- Github Streak -->
+<a href="https://git.io/streak-stats#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
+  <img src="https://streak-stats.demolab.com?user=LucasMrc81&theme=tokyonight&mode=daily&border=DD2BC7" 
+       width="49%" alt="My GitHub Streak was once here..." />
+</a>
+<a href="https://git.io/streak-stats#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
+  <img src="https://streak-stats.demolab.com?user=LucasMrc81&theme=buefy&mode=daily&border=DD2BC7" 
+       width="49%" alt="My GitHub Streak was once here..." />
+</a>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucasmrc81&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lucasmrc81&radius=16&theme=dracula&area=true&order=5&hide_border=true" height="200" alt="activity-graph graph"  />
-</div>
+<br>
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMrc81&layout=donut&theme=tokyonight&border_color=DD2BC7" 
+       width="33%" alt="Favorite Languages" />
+</a>
+<br>
+
+
 
 ###
 
