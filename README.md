@@ -10,18 +10,22 @@
 
 ### Olá! Eu sou o Lucas Marcio 🚀
 
-Sou um entusiasta apaixonado por tecnologia e desenvolvimento de software, sempre em busca de novos desafios e oportunidades para aprender e crescer na minha carreira. Estou atualmente procurando minha primeira oportunidade na área de desenvolvimento de software e estou determinado a fazer a diferença.
+Sou um **desenvolvedor mobile** apaixonado por criar aplicativos inovadores e funcionais para Android. Sempre busco melhorar minhas habilidades, resolver problemas reais e transformar ideias em soluções digitais. Estou ansioso para contribuir com projetos impactantes e crescer na área de desenvolvimento mobile.
 
-🔧 **O que eu faço:**
-- **Desenvolvimento Backend:** Focado em aprimorar minhas habilidades em Java e outras tecnologias de backend.
-- **Desenvolvedor Mobile:** Desenvolvendo aplicativos móveis para a plataforma Android.
+📱 **Minhas especialidades:**
+- Desenvolvimento de aplicativos para Android usando **Kotlin** e **Java**.
+- Experiência com bibliotecas e ferramentas como **Android Studio**, **Glide** e **Ktor**.
+- Criação de interfaces interativas e responsivas.
 
 💡 **Por que me escolher:**
-- **Paixão e Dedicação:** Minha paixão pela tecnologia é o que me motiva a buscar excelência em cada projeto.
-- **Aprendizado Contínuo:** Comprometido com o aprendizado contínuo para me tornar um desenvolvedor ainda melhor.
+- **Paixão pela tecnologia:** Sou comprometido em entregar qualidade e buscar inovações em cada projeto.
+- **Aprendizado contínuo:** Estou sempre aprendendo novas tecnologias e aprimorando minhas habilidades para me manter atualizado.
 
-📫 **Vamos nos conectar!**
-Se você deseja saber mais sobre meu trabalho ou discutir possíveis colaborações, sinta-se à vontade para me contatar através das redes sociais abaixo. Estou ansioso para conectar e explorar novas oportunidades juntos!
+📫 **Conecte-se comigo!**
+Se quiser saber mais sobre meu trabalho ou colaborar em projetos, não hesite em me contatar pelas redes sociais abaixo.
+
+---
+
 
 
     
