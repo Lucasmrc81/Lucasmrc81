@@ -10,22 +10,28 @@
 
 ### Olá! Eu sou o Lucas Marcio 🚀
 
-Sou um profissional em formação na área de **Engenharia de Software**, apaixonado por tecnologia e inovação. Minha jornada começou com o desenvolvimento mobile, mas expandi meu conhecimento para **arquitetura de software**, **desenvolvimento backend** e **computação em nuvem**.  
+Sou um **desenvolvedor mobile** apaixonado por criar aplicativos inovadores e funcionais para Android. Sempre busco melhorar minhas habilidades, resolver problemas reais e transformar ideias em soluções digitais. Estou ansioso para contribuir com projetos impactantes e crescer na área de desenvolvimento mobile.
 
-📌 **Áreas de Interesse:**  
-- **Engenharia de Software** – Estruturas escaláveis e boas práticas de desenvolvimento.  
-- **Backend & APIs** – Desenvolvimento eficiente e otimização de sistemas.  
-- **DevOps & Cloud** – Automação, CI/CD e infraestrutura escalável.  
+📱 **Minhas especialidades:**
+- Desenvolvimento de aplicativos para Android usando **Kotlin** e **Java**.
+- Experiência com bibliotecas e ferramentas como **Android Studio**, **Glide** e **Ktor**.
+- Criação de interfaces interativas e responsivas.
 
-🚀 **Minha Abordagem:**  
-Acredito que a tecnologia pode impactar positivamente negócios e pessoas. Meu foco é sempre criar soluções eficientes, utilizando as melhores práticas e tecnologias do mercado.  
+💡 **Por que me escolher:**
+- **Paixão pela tecnologia:** Sou comprometido em entregar qualidade e buscar inovações em cada projeto.
+- **Aprendizado contínuo:** Estou sempre aprendendo novas tecnologias e aprimorando minhas habilidades para me manter atualizado.
 
-📫 **Conecte-se comigo!**  
-Caso queira trocar ideias sobre tecnologia ou colaborar em projetos, estou à disposição!  
+📫 **Conecte-se comigo!**
+Se quiser saber mais sobre meu trabalho ou colaborar em projetos, não hesite em me contatar pelas redes sociais abaixo.
 
 ---
 
-## 📌 Contatos  
+## 🌐 Meu site  
+🔗 [lucasmrc81.github.io](https://lucasmrc81.github.io)  
+
+---
+
+## 📞 Contatos:
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lucas-mrc-dev/" target="_blank">
@@ -45,24 +51,23 @@ Caso queira trocar ideias sobre tecnologia ou colaborar em projetos, estou à di
   </a>
 </div>
 
----
+## 🚀 Tecnologias que mais uso
+<br clear="both">
 
-## 🛠 Tecnologias  
-
-### 🔹 Tecnologias que mais utilizo  
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,androidstudio,apple,aws,docker,gcp,git,js,ts,vscode,windows&theme=light)](https://skillicons.dev)
 
-### 🔹 Tecnologias que tenho conhecimento  
+
+## 🛠 Tecnologias que tenho um pouco de conhecimento
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=gcp,html,py" alt="Skills" />
   </a>
 </p>
 
----
+###
 
-## 🎵 Ouvindo no Spotify  
-
+<!-- Spotify -->
 <a href="https://open.spotify.com/user/22ru4mjhichwfs3k7s3iiastq#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
   <img src="https://galexy727.vercel.app/api/spotify?background_color=1a1b27&border_color=DD2BC7" 
        alt="I love Spotify!"/>
@@ -72,11 +77,8 @@ Caso queira trocar ideias sobre tecnologia ou colaborar em projetos, estou à di
        alt="I love Spotify!"/>
 </a>
 
----
-
-## 📊 Estatísticas  
-
-<!-- GitHub Stats -->
+###
+<!-- Github Stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
   <img src="https://github-readme-stats.vercel.app/api?username=LucasMrc81&show_icons=true&theme=tokyonight&border_color=DD2BC7" 
        width="49%" alt="My GitHub Stats were once here..." />
@@ -85,8 +87,7 @@ Caso queira trocar ideias sobre tecnologia ou colaborar em projetos, estou à di
   <img src="https://github-readme-stats.vercel.app/api?username=LucasMrc81&show_icons=true&theme=buefy&border_color=DD2BC7" 
        width="49%" alt="My GitHub Stats were once here..." />
 </a>
-
-<!-- GitHub Streak -->
+<!-- Github Streak -->
 <a href="https://git.io/streak-stats#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
   <img src="https://streak-stats.demolab.com?user=LucasMrc81&theme=tokyonight&mode=daily&border=DD2BC7" 
        width="49%" alt="My GitHub Streak was once here..." />
@@ -96,17 +97,19 @@ Caso queira trocar ideias sobre tecnologia ou colaborar em projetos, estou à di
        width="49%" alt="My GitHub Streak was once here..." />
 </a>
 
-<!-- Linguagens -->
+<br>
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMrc81&layout=donut&theme=tokyonight&border_color=DD2BC7" 
        width="33%" alt="Favorite Languages" />
 </a>
+<br>
 
----
 
-## 🎬 Sobre Mim  
 
-Além de ser apaixonado por tecnologia, gosto de assistir séries e filmes de comédia. Atualmente, estou reassistindo **"Tapas e Beijos"**, **"Cupom Mania"** e **"Euphoria"**. Também adoro cozinhar e dirigir, sempre disposto a aprender novas receitas. Um dos meus livros favoritos é **"Talvez Você Deva Conversar com Alguém"**.  
+###
+
+## Sobre mim
+
+Além de ser apaixonado por tecnologia, eu também gosto de assistir séries e filmes de comédia. Atualmente, estou reassistindo "Tapas e Beijos", "Cupom Mania" e "Euphoria". Adoro cozinhar e dirigir, e estou sempre disposto a aprender novas receitas. Um dos meus livros favoritos é "Talvez Você Deva Conversar com Alguém".
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&theme=dracula&height=120&section=footer&color=0A74DA"/>
-
