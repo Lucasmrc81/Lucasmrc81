@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&theme=&height=120&section=header&color=0A74DA"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&theme=dracula&height=120&section=header&section=footer"/>
 
 <div style="text-align: center;">
     <a href="https://git.io/typing-svg">
@@ -6,30 +6,82 @@
     </a>
 </div>
 
-##
+---
 
-### Olá! Eu sou o Lucas Marcio 🚀
+## Olá! Eu sou o Lucas Marcio 🚀
 
-Sou um **desenvolvedor mobile** apaixonado por criar aplicativos inovadores e funcionais para Android. Sempre busco melhorar minhas habilidades, resolver problemas reais e transformar ideias em soluções digitais. Estou ansioso para contribuir com projetos impactantes e crescer na área de desenvolvimento mobile.
+Olá, eu sou o Lucas Marcio!  
+Sou desenvolvedor com uma sólida base acadêmica em Faculdade de Engenharia de Software e uma paixão por criar soluções inovadoras e funcionais para diferentes plataformas. Tenho experiência em várias tecnologias, incluindo Android, React Native, Flutter, Node.js e Python. Sempre busco transformar ideias criativas em soluções práticas, com foco na performance e na experiência do usuário. Estou em constante evolução e pronto para expandir minhas habilidades em diferentes áreas do desenvolvimento de software.
 
 📱 **Minhas especialidades:**
-- Desenvolvimento de aplicativos para Android usando **Kotlin** e **Java**.
-- Experiência com bibliotecas e ferramentas como **Android Studio**, **Glide** e **Ktor**.
-- Criação de interfaces interativas e responsivas.
+
+- Desenvolvimento de aplicativos Android usando **Kotlin** e **Java**.
+- Desenvolvimento cross-platform com **React Native** e **Flutter**.
+- Backend com **Node.js** e **Python**, com experiência em **Express.js** e **Ktor**.
+- Bancos de dados **PostgreSQL, MySQL e Firebase Firestore**.
+- Experiência com bibliotecas e ferramentas como **Android Studio, Glide, Ktor, JavaScript, Firebase e Supabase**.
+- Criação de interfaces interativas e responsivas, com ênfase na experiência do usuário.
+- Conhecimento em arquitetura **MVVM, Clean Architecture e princípios SOLID**.
+- Testes automatizados com **JUnit, Espresso e Mockito**.
 
 💡 **Por que me escolher:**
-- **Paixão pela tecnologia:** Sou comprometido em entregar qualidade e buscar inovações em cada projeto.
-- **Aprendizado contínuo:** Estou sempre aprendendo novas tecnologias e aprimorando minhas habilidades para me manter atualizado.
 
-📫 **Conecte-se comigo!**
-Se quiser saber mais sobre meu trabalho ou colaborar em projetos, não hesite em me contatar pelas redes sociais abaixo.
+- **Paixão pela inovação:** Comprometido em entregar qualidade e sempre buscando inovações em cada projeto.
+- **Aprendizado contínuo:** Estou sempre em busca de novos desafios e tecnologias para ampliar minha experiência em diversas áreas do desenvolvimento de software.
+- **Adaptação e flexibilidade:** Tenho interesse em explorar diferentes áreas dentro do universo de desenvolvimento, desde o desenvolvimento mobile até soluções de backend, sempre com o objetivo de entregar soluções de alto impacto.
+
+---
+
+## Sobre mim
+
+Além da minha paixão por tecnologia, também sou fã de séries e filmes de comédia. No momento, estou revisitando "Tapas e Beijos", "Cupom Mania" e "Euphoria". Tenho um grande interesse por culinária e, sempre que posso, estou experimentando novas receitas. Também adoro dirigir, e é um momento que me proporciona prazer e reflexão. Um dos livros que mais me marcou é "Talvez Você Deva Conversar com Alguém", que traz reflexões profundas sobre a vida e as relações humanas.
 
 ---
 
-## 🌐 Meu site  
-🔗 [lucasmrc81.github.io](https://lucasmrc81.github.io)  
+## 🚀 Tecnologias que mais uso
+
+<br clear="both">
+
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,androidstudio,aws,docker,py,gcp,git,js,html,vscode,windows&theme=light)](https://skillicons.dev)
 
 ---
+
+## 🛠 Tecnologias que tenho um pouco de conhecimento
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gcp,ts," alt="Skills" />
+  </a>
+</p>
+
+---
+
+## 📊 Minhas Estatísticas
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api?username=LucasMrc81&show_icons=true&theme=dracula&border_color=DD2BC7" 
+         width="49%" alt="Minhas estatísticas no GitHub" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMrc81&layout=donut&theme=dracula&border_color=DD2BC7" 
+         width="49%" alt="Linguagens Favoritas" />
+  </a>
+</div>
+
+<br>
+
+---
+
+## 🌐 Meu site
+
+<p align="center" style="font-size: 18px;">
+    🔗 <a href="https://lucasmrc81.github.io" target="_blank" style="text-decoration: none; font-weight: bold;">Visite meu portfólio</a> e conheça mais sobre meu trabalho!
+</p>
+
+<p align="center">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
 
 ## 📞 Contatos:
 
@@ -51,65 +103,6 @@ Se quiser saber mais sobre meu trabalho ou colaborar em projetos, não hesite em
   </a>
 </div>
 
-## 🚀 Tecnologias que mais uso
-<br clear="both">
+---
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,androidstudio,apple,aws,docker,gcp,git,js,ts,vscode,windows&theme=light)](https://skillicons.dev)
-
-
-## 🛠 Tecnologias que tenho um pouco de conhecimento
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp,html,py" alt="Skills" />
-  </a>
-</p>
-
-###
-
-<!-- Spotify -->
-<a href="https://open.spotify.com/user/22ru4mjhichwfs3k7s3iiastq#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
-  <img src="https://galexy727.vercel.app/api/spotify?background_color=1a1b27&border_color=DD2BC7" 
-       alt="I love Spotify!"/>
-</a>
-<a href="https://open.spotify.com/user/22ru4mjhichwfs3k7s3iiastq#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
-  <img src="https://galexy727.vercel.app/api/spotify?background_color=C7CBFF&border_color=DD2BC7" 
-       alt="I love Spotify!"/>
-</a>
-
-###
-<!-- Github Stats -->
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasMrc81&show_icons=true&theme=tokyonight&border_color=DD2BC7" 
-       width="49%" alt="My GitHub Stats were once here..." />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasMrc81&show_icons=true&theme=buefy&border_color=DD2BC7" 
-       width="49%" alt="My GitHub Stats were once here..." />
-</a>
-<!-- Github Streak -->
-<a href="https://git.io/streak-stats#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
-  <img src="https://streak-stats.demolab.com?user=LucasMrc81&theme=tokyonight&mode=daily&border=DD2BC7" 
-       width="49%" alt="My GitHub Streak was once here..." />
-</a>
-<a href="https://git.io/streak-stats#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
-  <img src="https://streak-stats.demolab.com?user=LucasMrc81&theme=buefy&mode=daily&border=DD2BC7" 
-       width="49%" alt="My GitHub Streak was once here..." />
-</a>
-
-<br>
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMrc81&layout=donut&theme=tokyonight&border_color=DD2BC7" 
-       width="33%" alt="Favorite Languages" />
-</a>
-<br>
-
-
-
-###
-
-## Sobre mim
-
-Além de ser apaixonado por tecnologia, eu também gosto de assistir séries e filmes de comédia. Atualmente, estou reassistindo "Tapas e Beijos", "Cupom Mania" e "Euphoria". Adoro cozinhar e dirigir, e estou sempre disposto a aprender novas receitas. Um dos meus livros favoritos é "Talvez Você Deva Conversar com Alguém".
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&theme=dracula&height=120&section=footer&color=0A74DA"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&theme=dracula&height=120&section=footer"/>
